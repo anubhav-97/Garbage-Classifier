@@ -5,15 +5,15 @@ The Garbage Classifier is a machine learning model and accompanying code that ai
 ## Installation:
 To use the Garbage Classifier, please follow the steps below:
 
-### 1. Clone the repository from GitHub:
+#### 1. Clone the repository from GitHub:
 git clone https://github.com/anubhav-97/Garbage-Classifier.git
-### 2. Install the required dependencies. It is recommended to use a virtual environment to avoid conflicts with other Python packages.
+#### 2. Install the required dependencies. It is recommended to use a virtual environment to avoid conflicts with other Python packages.
 cd Garbage-Classifier
 pip install -r requirements.txt
-### 3. Download the pre-trained model weights:
-### You will need to download the pre-trained model weights file from the following link and place it in the weights directory:
-### Download Model Weights
-### 4. Run the application:
+#### 3. Download the pre-trained model weights:
+You will need to download the pre-trained model weights file from the following link and place it in the weights directory:
+Download Model Weights
+#### 4. Run the application:
 python classify.py
 ## Usage:
 Once the application is running, you can use it to classify garbage images. Here are the steps to follow:
