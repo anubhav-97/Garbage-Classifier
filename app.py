@@ -11,7 +11,7 @@ from keras.preprocessing import image
 from flask import Flask, redirect, url_for, request, render_template
 from werkzeug.utils import secure_filename
 
-# Defining a flask app
+# Defining a Flask app
 app = Flask(__name__)
 
 # Model saved with Keras model.save()
